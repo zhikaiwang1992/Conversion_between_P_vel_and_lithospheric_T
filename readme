@@ -2,6 +2,5 @@ This package contains the codes in Matlab for the conversion between the tempera
 
 The folder 'Examples' contains the script for testing the influence of pressure, Earth composition, grain size and anelasticity.
 
-Reference: S. Goes, R. Govers and P. Vacher, Shallow mantle temperatures under Europe from P and S wave tomography, Journal of Geophysical Research: Solid Earth 2000 Vol. 105 Issue B5 Pages 11153-11169, DOI: 10.1029/1999jb900300
-https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JB900300
+Reference: S. Goes, R. Govers and P. Vacher, Shallow mantle temperatures under Europe from P and S wave tomography, Journal of Geophysical Research: Solid Earth 2000 Vol. 105 Issue B5 Pages 11153-11169, DOI: 10.1029/1999jb900300. https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JB900300
 
